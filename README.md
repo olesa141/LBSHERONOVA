@@ -1,13 +1,13 @@
-#Заголовок проекта
+# Заголовок проекта
 
-##Начало работы 
+## Начало работы 
 
  Клонируем проект из репозитория по ссылке [https://github.com/nnegodnova/ProjectRazrabotka](https://github.com/nnegodnova/ProjectRazrabotka)
  
-###Необходимые условия
+### Необходимые условия
 
 На ПК должна быть установлена программа Visual Studio. В репозитории должен находиться файл с проектом.
 
-##Автор
+## Автор
 
-**SheronovaOlesa**
+[**SheronovaOlesa**](olesaseronova5233@gmail.com)
