@@ -10,4 +10,4 @@
 
 ## Автор
 
-[**SheronovaOlesa**](https://github.com/olesa141))
+[**SheronovaOlesa**](https://github.com/olesa141)
